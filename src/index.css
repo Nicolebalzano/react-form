@@ -11,20 +11,34 @@ ul{
 }
 h2{
   margin-top: 20px;
-  color: rgb(66, 66, 235);
+  color: rgb(233, 94, 124);
 }
 form label {
   font-size: 1.3rem;
   font-weight: bolder;
-  color: rgb(201, 48, 58);
+  color: rgb(186, 33, 38);
 }
 input{
   margin-left: 20px;
   margin-bottom: 20px;
-  padding: 10px 40px;
+  padding: 10px;
+   border-radius: 8px;
+   border: 2px solid rgb(103, 89, 95);
+
 }
 hr{
   color: rgb(194, 188, 188);
+}
+button{
+  padding: 13px;
+  background-color: rgb(222, 173, 173);
+  border: 1px solid rgb(222, 173, 173);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  margin-left: 10px;
+  font-size: 1rem;   
+  color: rgb(248, 248, 248);
+  font-weight: bold;
 }
 .container{
   max-width: 800px;
