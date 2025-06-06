@@ -13,6 +13,19 @@ h2{
   margin-top: 20px;
   color: rgb(66, 66, 235);
 }
+form label {
+  font-size: 1.3rem;
+  font-weight: bolder;
+  color: rgb(201, 48, 58);
+}
+input{
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding: 10px 40px;
+}
+hr{
+  color: rgb(194, 188, 188);
+}
 .container{
   max-width: 800px;
   width: 80%;
